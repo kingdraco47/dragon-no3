@@ -32,30 +32,30 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+94755982430'] // owner number
-global.ownername = "𝙼𝚛.𝕯𝖗𝖆𝖈𝖔" // owner name
-global.ytname = "" // yt chanel name
+global.ownername = "𝘏𝘢𝘳𝘴𝘩𝘢𝘯𝘢 𝘒 𝘗𝘳𝘦𝘮𝘢𝘭𝘢𝘭" // owner name
+global.ytname = "" // Dragon Kingdom
 global.socialm = "❖ 𝐀𝐝𝐦𝐢𝐧 𝐁𝐨𝐚𝐫𝐝 ❖: https://chat.whatsapp.com/GTWHDwrhm4B5DF8kBgTMfl" // github or insta name
 global.location = "Sri Lanka, Kaluthara, Bulathsinhala" // location
 
 //bot body 
 global.alivepic = `https://telegra.ph/file/c1335019a62b1282fde61.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
-global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
+global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
-global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+94755982430']
 global.ownertag = '+94755982430' //your tag number
 global.botname = '𝕾𝖓𝖔𝖜 𝕯𝖗𝖆𝖌𝖔𝖓' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
+global.packname = "𝙳𝚁𝙰𝙶𝙾𝙽 𝚂𝚃𝙸𝙲𝚂" // sticker packname
 global.author = "𝕾𝖓𝖔𝖜 𝕯𝖗𝖆𝖌𝖔𝖓" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ♔ ᵀᴴᴱ 𝔇𝔯𝔞𝔤𝔬𝔫 𝔎𝔦𝔫𝔤𝔡𝔬𝔪 ♔ ]' //
+global.footer = '[𝙳𝚁𝙰𝙶𝙾𝙽 𝙺𝙸𝙽𝙶𝙳𝙾𝙼]' //
 
 //database
 global.premium = ['+94755982430'] //ur premium numbers
